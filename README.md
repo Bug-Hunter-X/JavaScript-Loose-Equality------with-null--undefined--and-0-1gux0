@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error related to loose equality (==) comparisons involving null, undefined, and 0.  The `bug.js` file shows the erroneous behavior, while `bugSolution.js` provides the corrected code using strict equality (===).
